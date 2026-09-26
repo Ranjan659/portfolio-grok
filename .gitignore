@@ -1,0 +1,74 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js / Vercel
+.next/
+.vercel/
+
+# Build output
+dist/
+build/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing / coverage
+coverage/
+.nyc_output/
+
+# Cache
+.cache/
+.turbo/
+.parcel-cache/
+
+# Project-specific generated files
+.artifacts/
+artifacts/
+
+# Local development / temporary files
+tmp/
+temp/
+
+# Database / local data
+*.sqlite
+*.sqlite3
+*.db
+
+# Generated screenshots
+screenshots/
+
+# Environment/config secrets
+*.pem
+*.key
+
+# Vercel
+.vercel/
+
+# Misc
+.DS_Store
